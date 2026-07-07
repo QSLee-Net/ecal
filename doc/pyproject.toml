@@ -7,6 +7,7 @@ dependencies = [
   "sphinx-tabs == 3.5",       # (Current CSS Rule is known to be compatible with that version)
   "PyGithub",
   "autodoc",
+  "packaging",
   "semantic-version", 
   "exhale",
   "Jinja2",
